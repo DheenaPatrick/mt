@@ -1,0 +1,3 @@
+[submodule "ntg"]
+	path = ntg
+	url = https://github.com/DheenaPatrick/ntg.git
